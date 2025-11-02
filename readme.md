@@ -1,7 +1,17 @@
-This is a NEA project I completed for my Computer Science A-Level Coursework:
+This is a python project I completed for my Computer Science A-Level Coursework:
 
 
 # lp-archiver
+
+A compression utility written in python.
+
+## Features
+
+- Custom huffman encoding implementation
+- Custom archiving / file bundling algorithim
+- tkinter GUI and file explorer
+- Encryption
+- Customisable GUI with settings saved to JSON file.
 
 Required packages: pillow, cryptography
 
@@ -19,3 +29,9 @@ Required packages: pillow, cryptography
 - Shortcuts can be removed by right clicking a file in the shortcuts pane and pressing "Remove from shortcuts"
 - You can change the colour of the program with the options bar at the top.
 
+
+![image](resources/1.png)
+![image](resources/2.png)
+![image](resources/3.png)
+![image](resources/4.png)
+![image](resources/5.png)
